@@ -1,0 +1,61 @@
+Month_Start,Year,Month,District,Rainfall_District_Mean_mm,Rainfall_Complete_Stations,Rainfall_Station_Total_Std_mm,Rainfall_Month_Complete,Rainfall_Quality_Note
+2021-01-01,2021,1,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2021-02-01,2021,2,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2021-03-01,2021,3,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2021-04-01,2021,4,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2021-05-01,2021,5,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2021-06-01,2021,6,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2021-07-01,2021,7,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2021-08-01,2021,8,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2021-09-01,2021,9,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2021-10-01,2021,10,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2021-11-01,2021,11,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2021-12-01,2021,12,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2022-01-01,2022,1,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2022-02-01,2022,2,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2022-03-01,2022,3,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2022-04-01,2022,4,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2022-05-01,2022,5,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2022-06-01,2022,6,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2022-07-01,2022,7,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2022-08-01,2022,8,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2022-09-01,2022,9,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2022-10-01,2022,10,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2022-11-01,2022,11,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2022-12-01,2022,12,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2023-01-01,2023,1,Dharwad,50.866666666666674,3,36.48798889132332,True,Monthly total averaged across complete station records
+2023-02-01,2023,2,Dharwad,7.666666666666665,3,10.16923464835645,True,Monthly total averaged across complete station records
+2023-03-01,2023,3,Dharwad,15.200000000000001,3,5.102940328869229,True,Monthly total averaged across complete station records
+2023-04-01,2023,4,Dharwad,24.066666666666666,3,2.081665999466132,True,Monthly total averaged across complete station records
+2023-05-01,2023,5,Dharwad,46.666666666666664,3,33.93189256928256,True,Monthly total averaged across complete station records
+2023-06-01,2023,6,Dharwad,42.79999999999999,3,16.563815985454557,True,Monthly total averaged across complete station records
+2023-07-01,2023,7,Dharwad,234.33333333333334,3,84.03078800852302,True,Monthly total averaged across complete station records
+2023-08-01,2023,8,Dharwad,20.0,3,10.762899237658969,True,Monthly total averaged across complete station records
+2023-09-01,2023,9,Dharwad,46.73333333333333,3,45.67990075879471,True,Monthly total averaged across complete station records
+2023-10-01,2023,10,Dharwad,18.2,3,8.6,True,Monthly total averaged across complete station records
+2023-11-01,2023,11,Dharwad,5.0,3,2.821347195933177,True,Monthly total averaged across complete station records
+2023-12-01,2023,12,Dharwad,3.6,3,2.3579652245103193,True,Monthly total averaged across complete station records
+2024-01-01,2024,1,Dharwad,29.933333333333334,3,23.38404014137278,True,Monthly total averaged across complete station records
+2024-02-01,2024,2,Dharwad,16.400000000000002,3,18.017769007288337,True,Monthly total averaged across complete station records
+2024-03-01,2024,3,Dharwad,16.733333333333334,3,8.386497083606082,True,Monthly total averaged across complete station records
+2024-04-01,2024,4,Dharwad,103.06666666666666,3,56.237117043224515,True,Monthly total averaged across complete station records
+2024-05-01,2024,5,Dharwad,104.13333333333333,3,15.100110374872536,True,Monthly total averaged across complete station records
+2024-06-01,2024,6,Dharwad,54.86666666666667,3,16.17693831765867,True,Monthly total averaged across complete station records
+2024-07-01,2024,7,Dharwad,172.96666666666667,3,59.18752683913507,True,Monthly total averaged across complete station records
+2024-08-01,2024,8,Dharwad,135.86666666666667,3,15.279179733654987,True,Monthly total averaged across complete station records
+2024-09-01,2024,9,Dharwad,133.20000000000002,3,47.95497888645141,True,Monthly total averaged across complete station records
+2024-10-01,2024,10,Dharwad,180.20000000000002,3,114.452435535466,True,Monthly total averaged across complete station records
+2024-11-01,2024,11,Dharwad,32.06666666666666,3,31.16172866407339,True,Monthly total averaged across complete station records
+2024-12-01,2024,12,Dharwad,36.36666666666667,3,31.68853630784063,True,Monthly total averaged across complete station records
+2025-01-01,2025,1,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2025-02-01,2025,2,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2025-03-01,2025,3,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2025-04-01,2025,4,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2025-05-01,2025,5,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2025-06-01,2025,6,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2025-07-01,2025,7,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2025-08-01,2025,8,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2025-09-01,2025,9,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2025-10-01,2025,10,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2025-11-01,2025,11,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
+2025-12-01,2025,12,Dharwad,,0,,False,No usable complete station-month data; rainfall left missing
